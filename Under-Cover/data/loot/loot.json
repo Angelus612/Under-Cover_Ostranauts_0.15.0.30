@@ -1,0 +1,142 @@
+[
+  {
+            "strName" : "ItmSanDiegoTraderBinghamStartLootItems",
+            "aCOs"    : [
+            ],
+            "aLoots"  : [
+              "OutfitEVA05FullPlusHelmet=1.0x1",
+              "OutfitSuit03=1.0x1",
+              "ItmRandomClothesLeggings=1.0x1",
+              "ItmWristPDA01LockedUsed=1.0x1",
+              "ItmBackpack02=1.0x1",
+              "ItmRandomTrenchers02=1.0x1-2",
+              "ItmRandomDrinkNew=0.5x1",
+              "ItmRandomDrinkNew=0.5x1",
+              "ItmRandomDrinkNew=0.5x1",
+              "ItmRandomDrinkNew=1x1"
+            ],
+            "strType" : "item"
+          },
+  {
+    "strName" : "ItmOKLGLEOStartLootItems",
+    "aCOs"    : [
+      "OutfitHelmet04=1.0x1"
+    ],
+    "aLoots"  : [
+      "OutfitEVA03Full=1.0x1",
+      "OutfitSuit02=1.0x1",
+      "ItmWristPDA01LockedUsed=1.0x1",
+      "ItmWeaponPistolEnergy01New=1.0x1",
+      "ItmBackpack02=1.0x1",
+      "ItmWeaponNightstick01=1.0x1",
+      "ItmToolWorkLamp01New=0.5x1",
+      "ItmRandomTrenchersOriginal=0.75x1-2",
+      "ItmDrinkPouchNew=1x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmBCERLEOStartLootItems",
+    "aCOs"    : [
+      "OutfitHelmet04=1.0x1"
+    ],
+    "aLoots"  : [
+      "OutfitEVA03Full=1.0x1",
+      "ItmRandomClothesOnePieceOutfit=1.0x1",
+      "ItmWristPDA01LockedUsed=1.0x1",
+      "ItmWeaponPistolEnergy01New=1.0x1",
+      "ItmWeaponNightstick01=1.0x1",
+      "ItmBackpack02=1.0x1",
+      "ItmToolWorkLamp01New=0.5x1",
+      "ItmRandomTrenchers02=0.75x1-2",
+      "ItmDrinkPouchNew=1x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmCCRELEOStartLootItems",
+    "aCOs"    : [
+      "OutfitHelmet04=1.0x1"
+    ],
+    "aLoots"  : [
+      "OutfitEVA03Full=1.0x1",
+      "ItmRandomClothesOnePieceOutfit=1.0x1",
+      "ItmWristPDA01LockedUsed=1.0x1",
+      "ItmWeaponPistolEnergy01New=1.0x1",
+      "ItmWeaponNightstick01=1.0x1",
+      "ItmBackpack02=1.0x1",
+      "ItmToolWorkLamp01New=0.5x1",
+      "ItmRandomTrenchers02=0.75x1-2",
+      "ItmDrinkPouchNew=1x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmVenusLEOStartLootItems",
+    "aCOs"    : [
+      "OutfitHelmet04=1.0x1"
+    ],
+    "aLoots"  : [
+      "OutfitEVA03Full=1.0x1",
+      "OutfitSuit03=1.0x1",
+      "ItmWristPDA01LockedUsed=1.0x1",
+      "ItmWeaponPistolEnergy01New=1.0x1",
+      "ItmWeaponNightstick01=1.0x1",
+      "ItmBackpack02=1.0x1",
+      "ItmToolWorkLamp01New=0.5x1",
+      "ItmRandomTrenchers02=0.75x1-2",
+      "ItmDrinkPouchNew=1x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmOKLGMaintenanceTechStartLootItems",
+    "aCOs"    : [
+      "OutfitHelmet05=1.0x1"
+    ],
+    "aLoots"  : [
+      "OutfitEVA05Full=1.0x1",
+      "OutfitSuit02=1.0x1",
+      "ItmMaintenanceTechStarterKit=1.0x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmRandomEVASuitFull",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [      
+      "OutfitHelmet03=0.5x1|OutfitHelmet04=0.15x1|OutfitHelmet05=0.25x1|OutfitHelmet06=0.01x1|OutfitHelmet07=0.03x1|OutfitHelmet08=0.03x1|OutfitHelmet09=0.03x1",  
+      "OutfitEVA01Full=0.61x1|OutfitEVA03Full=0.05x1|OutfitEVA05Full=0.15x1|OutfitEVA06Full=0.01x1|OutfitEVA07Full=0.06x1|OutfitEVA08Full=0.06x1|OutfitEVA09Full=0.06x1",
+      "ItmRandomClothesOnePieceOutfit=1.0x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmRandomSpacesuitFull",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+      "OutfitHelmet02=0.6x1|OutfitHelmet03=0.18x1|OutfitHelmet04=0.05x1|OutfitHelmet05=0.05x1|OutfitHelmet06=0.01x1|OutfitHelmet07=0.03x1|OutfitHelmet08=0.03x1|OutfitHelmet09=0.03x1",
+      "OutfitPS01=0.69x1|OutfitPS02=0.01x1|OutfitEVA01FullCoveralls=0.2x1|OutfitEVA03FullCoveralls=0.05x1|OutfitEVA05FullCoveralls=0.05x1|OutfitEVA06FullCoveralls=0.01x1|OutfitEVA07FullCoveralls=0.03x1|OutfitEVA08FullCoveralls=0.03x1|OutfitEVA09FullCoveralls=0.03x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmRandomEVASuitFullMatch",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [      
+      "OutfitEVA01FullPlusHelmet=0.5x1|OutfitEVA03FullPlusHelmet=0.15x1|OutfitEVA05FullPlusHelmet=0.25x1|OutfitEVA06FullPlusHelmet=0.01x1|OutfitEVA07FullPlusHelmet=0.03x1|OutfitEVA08FullPlusHelmet=0.03x1|OutfitEVA09FullPlusHelmet=0.03x1",
+      "ItmRandomClothesOnePieceOutfit=1.0x1"
+    ],
+    "strType" : "item"
+  },
+    { "strName" : "OutfitEVA01FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA01Full=1.0x1" ], "strType" : "item" },
+    { "strName" : "OutfitEVA03FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA03Full=1.0x1" ], "strType" : "item" },
+    { "strName" : "OutfitEVA05FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA05Full=1.0x1" ], "strType" : "item" },
+    { "strName" : "OutfitEVA06FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA06Full=1.0x1" ], "strType" : "item" },
+    { "strName" : "OutfitEVA07FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA07Full=1.0x1" ], "strType" : "item" },
+    { "strName" : "OutfitEVA08FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA08Full=1.0x1" ], "strType" : "item" },
+    { "strName" : "OutfitEVA09FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA09Full=1.0x1" ], "strType" : "item" },
+]

@@ -4,7 +4,7 @@
     "strAuthor": "Angelus612",
     "strModURL": "https://github.com/Angelus612/Under-Cover_Ostranauts_0.15.0.30",
     "strGameVersion": "0.15.0.30",
-    "strModVersion": "1.0.0",
-    "strNotes": "Allows coveralls to be worn underneath EVA Suits (but not pressure suits due to clipping). Also disallows wearing the Ayotimiwa hoodie and grey port shirt with the brown duster due to clipping issues."
+    "strModVersion": "1.1.0",
+    "strNotes": "Allows coveralls to be worn underneath EVA Suits (but not pressure suits due to clipping). Also disallows wearing the Ayotimiwa hoodie and grey port shirt with the brown duster due to clipping issues, as well as giving the gunmetal coveralls additional inventory slots to match the other suits."
   }
 ]

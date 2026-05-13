@@ -1,0 +1,66 @@
+[
+  {
+    "strName" : "OutfitSuit06",
+    "strNameShort" : "Coveralls",
+    "strItemDef" : "OutfitSuit06",
+    "strDesc" : "A loose fitting garment covering the whole body, also known as a boilersuit. Wearing one will protect your modesty and little else.\n\nGray is often situated at a midpoint between the Manichaean light and dark, black and white, a morally neutral or ambivalent color. Grey is unsuitable for a wedding, unless you attend planning to kill someone.",
+    "strNameFriendly" : "Gunmetal Coveralls: Tharsis Landing",
+    "strType"    : "Item",
+    "strLoot"    : "ItmPocketsCoverallsx4",
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsMTRS=1.0x1.0",
+      "IsAbsorbent=1.0x1.0",
+      "IsBurnable=1.0x1.0",
+      "IsCushion=1.0x1.0",
+      "IsFlexible=1.0x1.0",
+      "IsJumpsuit=1.0x1.0",
+      "IsSheet=1.0x1.0",
+      "IsTempInsulator=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "StatMass=1.0x1.0",
+      "StatBasePrice=1.0x172.0",
+      "StatDamageMax=1.0x6.5",
+      "StatArmorBlunt=1.0x0.05",
+      "StatArmorCut=1.0x0.05",
+      "IsCategoryTextiles=1.0x1"
+    ],
+    "aSlotsWeHave" : [
+      "pocket_breastL",
+      "pocket_breastR",
+      "pocket_hipL",
+      "pocket_hipR"
+    ],
+    "dictSlotsLayout" : {
+      "pocket_breastL" : { "x" : 0.0, "y" : 0.0, "z" : 0.0 },
+      "pocket_breastR" : { "x" : 0.0, "y" : -20.0, "z" : 0.0 },
+      "pocket_hipL" : { "x" : 20.0, "y" : 0.0, "z" : 0.0 },
+      "pocket_hipR" : { "x" : 20.0, "y" : -20.0, "z" : 0.0 }
+    },
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefault",
+      "Normal","WearAndTearDefault"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTClothesDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "paperdoll/clothing/portOutfitSuit06",
+    "strAudioEmitter" : "ItmClothGeneralSound",
+    "mapSlotEffects" : [
+      "shirt_mid","BodySuit06",
+      "heldL","HeldItmDefaultSoftL",
+      "heldR","HeldItmDefaultSoftR"
+    ],
+    "jsonPI"            : null
+  }
+]

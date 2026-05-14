@@ -1,0 +1,565 @@
+[
+  {
+    "strName" : "BodyEVA01",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA01",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA01Dmg02",
+    "strIASlot" : "SLOTEVASuit01",
+    "strIAUnslot" : "UNSLOTEVASuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA",
+      "EVABackpack","Crew2EVA:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA01Off",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA01",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA01Dmg02",
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA",
+      "EVABackpack","Crew2EVA:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA01Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA01Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA",
+      "EVABackpack","Crew2EVA:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA03",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA03",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA03Dmg02",
+    "strIASlot" : "SLOTEVASuit01",
+    "strIAUnslot" : "UNSLOTEVASuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA03:Crew2EVAn",
+      "EVABackpack","Crew2EVA03:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA03Off",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA03",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA03Dmg02",
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA03:Crew2EVAn",
+      "EVABackpack","Crew2EVA03:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA03Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA03Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA03:Crew2EVAn",
+      "EVABackpack","Crew2EVA03:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA05",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA05",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA05Dmg02",
+    "strIASlot" : "SLOTEVASuit01",
+    "strIAUnslot" : "UNSLOTEVASuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA05:Crew2EVAn",
+      "EVABackpack","Crew2EVA05:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA05Off",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA05",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA05Dmg02",
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA05:Crew2EVAn",
+      "EVABackpack","Crew2EVA05:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA05Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA05Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA05:Crew2EVAn",
+      "EVABackpack","Crew2EVA05:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA06",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA06",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA06Dmg02",
+    "strIASlot" : "SLOTEVASuit01",
+    "strIAUnslot" : "UNSLOTEVASuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA06:Crew2EVAn",
+      "EVABackpack","Crew2EVA06:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA06Off",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA06",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA06Dmg02",
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA06:Crew2EVAn",
+      "EVABackpack","Crew2EVA06:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA06Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA06Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA06:Crew2EVAn",
+      "EVABackpack","Crew2EVA06:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA07",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA07",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA07Dmg02",
+    "strIASlot" : "SLOTEVASuit01",
+    "strIAUnslot" : "UNSLOTEVASuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA07:Crew2EVAn",
+      "EVABackpack","Crew2EVA07:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA07Off",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA07",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA07Dmg02",
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA07:Crew2EVAn",
+      "EVABackpack","Crew2EVA07:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA07Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA07Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA07:Crew2EVAn",
+      "EVABackpack","Crew2EVA07:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA08",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA08",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA08Dmg02",
+    "strIASlot" : "SLOTEVASuit01",
+    "strIAUnslot" : "UNSLOTEVASuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA08:Crew2EVAn",
+      "EVABackpack","Crew2EVA08:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA08Off",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA08",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA08Dmg02",
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA08:Crew2EVAn",
+      "EVABackpack","Crew2EVA08:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA08Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA08Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA08:Crew2EVAn",
+      "EVABackpack","Crew2EVA08:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA09",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA09",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA09Dmg02",
+    "strIASlot" : "SLOTEVASuit01",
+    "strIAUnslot" : "UNSLOTEVASuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA09:Crew2EVAn",
+      "EVABackpack","Crew2EVA09:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA09Off",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA09",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitEVA09Dmg02",
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA09:Crew2EVAn",
+      "EVABackpack","Crew2EVA09:Crew2EVAn"
+    ]
+  },
+  {
+    "strName" : "BodyEVA09Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitEVA09Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTEVASuit01Off",
+    "strIAUnslot" : "UNSLOTEVASuit01Off",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out", "back", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2EVA09:Crew2EVAn",
+      "EVABackpack","Crew2EVA09:Crew2EVAn"
+    ]
+  },
+
+  {
+    "strName" : "BodyPants01",
+    "strSlotImage" : "paperdoll/bodyPants01",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2Pants01:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyCargoPants01",
+    "strSlotImage" : "paperdoll/ItmCargoPants01",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2CargoPants01:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyCargoPants02",
+    "strSlotImage" : "paperdoll/ItmCargoPants02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2CargoPants02:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyCargoPants03",
+    "strSlotImage" : "paperdoll/ItmCargoPants03",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2CargoPants03:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyCargoPants04",
+    "strSlotImage" : "paperdoll/ItmCargoPants04",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2CargoPants04:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyCargoPantsStrapped01",
+    "strSlotImage" : "paperdoll/ItmCargoPantsStrapped01",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2CargoPantsStrapped01:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyCargoPantsStrapped02",
+    "strSlotImage" : "paperdoll/ItmCargoPantsStrapped02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2CargoPantsStrapped02:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyCargoPantsStrapped03",
+    "strSlotImage" : "paperdoll/ItmCargoPantsStrapped03",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2CargoPantsStrapped03:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyCargoPantsStrapped04",
+    "strSlotImage" : "paperdoll/ItmCargoPantsStrapped04",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesPantsLight01",
+    "strIAUnslot" : "UNSLOTClothesPantsLight01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "pants_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2CargoPantsStrapped04:Crew2Pants01n"
+    ]
+  },
+  {
+    "strName" : "BodyPS01",
+    "strSlotImage" : "paperdoll/bodyOutfitPS01",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitPS01Dmg02",
+    "strIASlot" : "SLOTPressureSuit01",
+    "strIAUnslot" : "UNSLOTPressureSuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "shirt_out", "pants_out", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2PS01"
+    ]
+  },
+  {
+    "strName" : "BodyPS01Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitPS01Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTPressureSuit01",
+    "strIAUnslot" : "UNSLOTPressureSuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "shirt_out", "pants_out", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2PS01"
+    ]
+  },
+
+  {
+    "strName" : "BodyPS02",
+    "strSlotImage" : "paperdoll/bodyOutfitPS02",
+    "strSlotImageUnder" : "paperdoll/bodyOutfitPS02Dmg02",
+    "strIASlot" : "SLOTPressureSuit01",
+    "strIAUnslot" : "UNSLOTPressureSuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "shirt_out", "pants_out", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2PS02"
+    ]
+  },
+  {
+    "strName" : "BodyPS02Dmg",
+    "strSlotImage" : "paperdoll/bodyOutfitPS02Dmg02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTPressureSuit01",
+    "strIAUnslot" : "UNSLOTPressureSuit01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "shirt_out", "pants_out", "shoeL", "shoeR"
+    ],
+    "mapMeshTextures" : [
+      "EVA","Crew2PS02"
+    ]
+  },
+  {
+    "strName" : "BodyShirt01",
+    "strSlotImage" : "paperdoll/bodyShirt01",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesShirt01",
+    "strIAUnslot" : "UNSLOTClothesShirt01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "shirt_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2Shirt01:Crew2Shirt01n"
+    ]
+  },
+  {
+    "strName" : "BodyShirtHoodie01",
+    "strSlotImage" : "paperdoll/bodyShirt02",
+    "strSlotImageUnder" : null,
+    "strIASlot" : "SLOTClothesShirt01",
+    "strIAUnslot" : "UNSLOTClothesShirt01",
+    "strIASlotParents" : null,
+    "strIAUnslotParents" : null,
+    "aSlotsSecondary" : [
+      "shirt_out"
+    ],
+    "mapMeshTextures" : [
+      "Outfit01","Crew2Shirt02:Crew2Shirt01n"
+    ]
+  }
+]

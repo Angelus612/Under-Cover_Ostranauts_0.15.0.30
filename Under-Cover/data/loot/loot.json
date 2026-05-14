@@ -138,5 +138,5 @@
     { "strName" : "OutfitEVA06FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA06Full=1.0x1" ], "strType" : "item" },
     { "strName" : "OutfitEVA07FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA07Full=1.0x1" ], "strType" : "item" },
     { "strName" : "OutfitEVA08FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA08Full=1.0x1" ], "strType" : "item" },
-    { "strName" : "OutfitEVA09FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA09Full=1.0x1" ], "strType" : "item" },
+    { "strName" : "OutfitEVA09FullPlusCoveralls", "aCOs" : [ ], "aLoots"  : [ "ItmRandomClothesOnePieceOutfit=1.0x1", "OutfitEVA09Full=1.0x1" ], "strType" : "item" }
 ]

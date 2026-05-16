@@ -30,8 +30,6 @@
       "StatArmorCut=1.0x0.05",
       "IsCategoryTextiles=1.0x1"
     ],
-    "mapCondTolerance"       : [
-    ],
     "aSlotsWeHave" : [
       "pocket_breastL",
       "pocket_breastR",
@@ -44,6 +42,8 @@
       "pocket_hipL" : { "x" : 20.0, "y" : 0.0, "z" : 0.0 },
       "pocket_hipR" : { "x" : 20.0, "y" : -20.0, "z" : 0.0 }
     },
+    "mapCondTolerance"       : [
+    ],
     "mapPoints"      : [
     ],
     "mapChargeProfiles"  : [
@@ -134,7 +134,7 @@
     "strDesc" : "A loose fitting garment covering the whole body, also known as a boilersuit. Wearing one will protect your modesty and little else.\n\nPurple is an auspicious color...",
     "strNameFriendly" : "Purple Coveralls",
     "strType"    : "Item",
-    "strLoot"    : "ItmPocketsCoverallsx4",
+    "strLoot"    : "ItmPocketsPantsCargox2Hipx2",
     "aInteractions" : [
       "Inventory",
       "EquipItem",
